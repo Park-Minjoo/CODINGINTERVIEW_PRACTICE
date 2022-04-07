@@ -1,0 +1,2 @@
+# CODINGINTERVIEW_PRACTICE
+1 Day 1 Problem since 2022.4.7
