@@ -23,3 +23,13 @@
 ### 🌱DAY06 (2022.06.15)
 #### [Programmars] 모의고사 (Python3)
 #### Blog : https://mandy5g.tistory.com/20
+
+
+### 🌱DAY07 (2023.01.19)
+#### [HackerRank] DifferentialDiagonal (Python3)
+#### Blog : https://mandy5g.tistory.com/32
+
+
+### 🌱DAY08 (2023.01.20)
+#### [Programmars] 아이스아메리카노 (Python3)
+#### Blog : https://mandy5g.tistory.com/33
