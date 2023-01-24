@@ -34,6 +34,6 @@
 #### [Programmars] 아이스아메리카노 (Python3)
 #### Blog : https://mandy5g.tistory.com/33
 
-### 🍕DAY08 (2023.01.24)
+### 🍕DAY09 (2023.01.24)
 #### [Programmars] 피자 나눠먹기 (1) (Python3)
 #### Blog : https://mandy5g.tistory.com/37
