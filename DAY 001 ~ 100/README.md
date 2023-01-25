@@ -37,3 +37,7 @@
 ### 🍕DAY09 (2023.01.24)
 #### [Programmars] 피자 나눠먹기 (1) (Python3)
 #### Blog : https://mandy5g.tistory.com/37
+
+### 🌭DAY10 (2023.01.25)
+#### [LeetCode] Longest Common Prefix (Python3)
+#### Blog : https://mandy5g.tistory.com/38
