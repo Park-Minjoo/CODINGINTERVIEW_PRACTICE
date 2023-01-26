@@ -41,3 +41,7 @@
 ### 🌭DAY10 (2023.01.25)
 #### [LeetCode] Longest Common Prefix (Python3)
 #### Blog : https://mandy5g.tistory.com/38
+
+### 🍠DAY11 (2023.01.26)
+#### [HackerRank] Mini-Max Sum (Python3)
+#### Blog : https://mandy5g.tistory.com/39
