@@ -45,3 +45,7 @@
 ### 🍠DAY11 (2023.01.26)
 #### [HackerRank] Mini-Max Sum (Python3)
 #### Blog : https://mandy5g.tistory.com/39
+
+### 🍙DAY12 (2023.01.27)
+#### [BaekJoon] 17413번: 단어 뒤집기 2 (Python3)
+#### Blog : https://mandy5g.tistory.com/43
