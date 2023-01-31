@@ -49,3 +49,8 @@
 ### 🍙DAY12 (2023.01.27)
 #### [BaekJoon] 17413번: 단어 뒤집기 2 (Python3)
 #### Blog : https://mandy5g.tistory.com/43
+
+### 🧇DAY13 (2023.01.31)
+#### [LeetCode] Add Two Numbers (Python3)
+#### Blog : https://mandy5g.tistory.com/44
+
