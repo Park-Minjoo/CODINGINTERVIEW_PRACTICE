@@ -54,6 +54,6 @@
 #### [LeetCode] Add Two Numbers (Python3)
 #### Blog : https://mandy5g.tistory.com/44
 
-### 🎂DAY13 (2023.02.06)
+### 🎂DAY14 (2023.02.06)
 #### [HackerRank] Birthday Cake Candles (Python3)
 #### Blog : https://mandy5g.tistory.com/45
