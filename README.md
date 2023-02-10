@@ -7,7 +7,7 @@
 
 #### 🫶 Using platform
 * BaekJoon: 1
-* Programmers: 3
+* Programmers: 4
 * Leetcode: 5
 * HackerRank: 5
 
