@@ -61,3 +61,7 @@
 ### 🎂DAY15 (2023.02.10)
 #### [Programmers] 자연수 뒤집어 배열로 만들기 (Python3)
 #### Blog : https://mandy5g.tistory.com/46
+
+### 🍘DAY16 (2023.04.14)
+#### [BaekJoon] 블랙잭 (Python3)
+#### Blog :
