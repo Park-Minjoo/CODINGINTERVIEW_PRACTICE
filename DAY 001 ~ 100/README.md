@@ -64,4 +64,4 @@
 
 ### 🍘DAY16 (2023.04.14)
 #### [BaekJoon] 블랙잭 (Python3)
-#### Blog :
+#### Blog : https://mandy5g.tistory.com/49
