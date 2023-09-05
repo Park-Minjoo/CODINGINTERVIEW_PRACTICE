@@ -2,14 +2,14 @@
 ## 🫡1 Day 1 Problem since 2022.4.7
 ### BLog: https://mandy5g.tistory.com/category/Programming
 #### This practice is done by Python3.
-#### Solved Question : 15
+#### Solved Question : 17
 
 
 #### 🫶 Using platform
 * BaekJoon: 2
 * Programmers: 4
 * Leetcode: 5
-* HackerRank: 5
+* HackerRank: 6
 
 [![Baekjun](https://user-images.githubusercontent.com/61863242/213344215-dc326413-1b9e-4c52-b115-251a6c32e13a.png)](https://www.acmicpc.net/)
 [<img width="196" alt="image" src="https://user-images.githubusercontent.com/61863242/213344635-22f5c1d3-2b2c-4a83-b168-3034364db8fb.png">
