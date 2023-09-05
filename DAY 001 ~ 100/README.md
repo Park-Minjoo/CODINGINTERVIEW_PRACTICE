@@ -65,3 +65,7 @@
 ### 🍘DAY16 (2023.04.14)
 #### [BaekJoon] 블랙잭 (Python3)
 #### Blog : https://mandy5g.tistory.com/49
+
+### 😡DAY17 (2023.09.05)
+#### [HackerRank] Find the Runner-Up Score! (Python3)
+#### Blog : 
