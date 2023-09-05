@@ -68,4 +68,4 @@
 
 ### 😡DAY17 (2023.09.05)
 #### [HackerRank] Find the Runner-Up Score! (Python3)
-#### Blog : 
+#### Blog : https://mandy5g.tistory.com/52
