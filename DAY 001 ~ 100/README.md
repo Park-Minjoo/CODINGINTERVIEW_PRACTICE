@@ -72,8 +72,8 @@
 
 ### 🌍DAY18 (2024.02.15)
 #### [BaekJoon] 지구온난화 (Python3)
-#### Blog : 
+#### Blog : https://mandy5g.tistory.com/84
 
 ### ⛽️DAY19 (2024.02.15)
 #### [BaekJoon] 주유소 (Python3)
-#### Blog : 
+#### Blog : https://mandy5g.tistory.com/85
