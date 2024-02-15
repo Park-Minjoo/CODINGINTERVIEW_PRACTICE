@@ -69,3 +69,11 @@
 ### 😡DAY17 (2023.09.05)
 #### [HackerRank] Find the Runner-Up Score! (Python3)
 #### Blog : https://mandy5g.tistory.com/52
+
+### 🌍DAY18 (2024.02.15)
+#### [BaekJoon] 지구온난화 (Python3)
+#### Blog : 
+
+### ⛽️DAY19 (2024.02.15)
+#### [BaekJoon] 주유소 (Python3)
+#### Blog : 
