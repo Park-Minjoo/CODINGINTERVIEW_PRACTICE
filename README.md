@@ -2,11 +2,11 @@
 ## 🫡1 Day 1 Problem since 2022.4.7
 ### BLog: https://mandy5g.tistory.com/category/Programming
 #### This practice is done by Python3.
-#### Solved Question : 19
+#### Solved Question : 20
 
 
 #### 🫶 Using platform
-* BaekJoon: 4
+* BaekJoon: 5
 * Programmers: 4
 * Leetcode: 5
 * HackerRank: 6

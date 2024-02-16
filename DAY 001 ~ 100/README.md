@@ -77,3 +77,7 @@
 ### ⛽️DAY19 (2024.02.15)
 #### [BaekJoon] 주유소 (Python3)
 #### Blog : https://mandy5g.tistory.com/85
+
+### 🍗DAY20 (2024.02.16)
+#### [BaekJoon] 치킨치킨치킨 (Python3)
+#### Blog : https://mandy5g.tistory.com/86
