@@ -84,8 +84,8 @@
 
 ### 🦠DAY21 (2024.02.17)
 #### [BaekJoon] 바이러스 (Python3)
-#### Blog : 
+#### Blog : https://mandy5g.tistory.com/88
 
 ### 🐌DAY22 (2024.02.17)
 #### [BaekJoon] 달팽이 (Python3)
-#### Blog : 
+#### Blog : https://mandy5g.tistory.com/87
