@@ -81,3 +81,11 @@
 ### 🍗DAY20 (2024.02.16)
 #### [BaekJoon] 치킨치킨치킨 (Python3)
 #### Blog : https://mandy5g.tistory.com/86
+
+### 🦠DAY21 (2024.02.17)
+#### [BaekJoon] 바이러스 (Python3)
+#### Blog : 
+
+### 🐌DAY22 (2024.02.17)
+#### [BaekJoon] 달팽이 (Python3)
+#### Blog : 
