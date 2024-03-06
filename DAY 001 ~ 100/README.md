@@ -92,35 +92,35 @@
 
 ### 🌾DAY23 (2024.02.27)
 #### [이취코] 떡볶이 떡 만들기 (Python3)
-#### Blog : 
+#### Blog : https://mandy5g.tistory.com/89
 
 ### 🔢DAY24 (2024.02.27)
 #### [이취코] 정렬된 수열에서 특정 수의 개수 구하기 (Python3)
-#### Blog : 
+#### Blog : https://mandy5g.tistory.com/90
 
 ### ☝🏿DAY25 (2024.02.27)
 #### [이취코] 1로 만들기 (Python3)
-#### Blog : 
+#### Blog : https://mandy5g.tistory.com/91
 
 ### 💸DAY26 (2024.02.27)
 #### [이취코] 효율적인 화폐 구성 (Python3)
-#### Blog : 
+#### Blog : https://mandy5g.tistory.com/92
 
 ### 🏅DAY27 (2024.02.27)
 #### [이취코] 금광 (Python3)
-#### Blog : 
+#### Blog : https://mandy5g.tistory.com/93
 
 ### 👩🏾‍🏭DAY28 (2024.02.27)
 #### [이취코] 병사 배치하기 (Python3)
-#### Blog : 
+#### Blog : https://mandy5g.tistory.com/94
 
 ### 📪DAY29 (2024.02.27)
 #### [이취코] 전보 (Python3)
-#### Blog :
+#### Blog : https://mandy5g.tistory.com/95
 
 ### 🌆DAY30 (2024.02.27)
 #### [이취코] 미래도시 (Python3)
-#### Blog : 
+#### Blog : https://mandy5g.tistory.com/96
 
 ### 🏚️DAY31 (2024.03.05)
 #### [BaekJoon] 계단 오르기 (Python3)
