@@ -138,6 +138,14 @@
 #### [BaekJoon] 나무 자르기 (Python3)
 #### Blog : 
 
-### ⛕ DAY35 (2024.03.05)
+### ⛕ DAY35 (2024.03.06)
 #### [BaekJoon] 경로찾기 (Python3)
+#### Blog : 
+
+### 🎈DAY36 (2024.03.05)
+#### [BaekJoon] 풍선 터뜨리기 (Python3)
+#### Blog : 
+
+### 🪨 DAY37 (2024.04.29)
+#### [BaekJoon] 주지수 (Python3)
 #### Blog : 
