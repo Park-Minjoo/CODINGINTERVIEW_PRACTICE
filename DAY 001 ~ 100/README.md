@@ -124,7 +124,6 @@
 
 ### 🏚️DAY31 (2024.03.05)
 #### [BaekJoon] 계단 오르기 (Python3)
-#### Blog : 
 
 ### 🗿DAY32 (2024.03.05)
 #### [BaekJoon] 징검다리 건너기 (Python3)
@@ -148,4 +147,8 @@
 
 ### 🪨 DAY37 (2024.04.29)
 #### [BaekJoon] 주지수 (Python3)
+#### Blog : 
+
+### 🩱 DAY38 (2024.06.11)
+#### [AllInOne] TwoSum (Python3)
 #### Blog : 
