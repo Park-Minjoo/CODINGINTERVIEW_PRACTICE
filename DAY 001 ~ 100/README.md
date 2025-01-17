@@ -152,3 +152,11 @@
 ### 🩱 DAY38 (2024.06.11)
 #### [AllInOne] TwoSum (Python3)
 #### Blog : 
+
+### 🚢 DAY39 (2025.01.17)
+#### [Programmers] 배열 두 배 만들기 (Python3)
+#### Blog : 
+
+### 🏛️ DAY40 (2025.01.17)
+#### [Programmers] 중앙값 구하기 (Python3)
+#### Blog : https://mandy5g.tistory.com/112
