@@ -14,7 +14,7 @@
 * AllInOne: 1
 
 [//]: # ([![Baekjun]&#40;https://user-images.githubusercontent.com/61863242/213344215-dc326413-1b9e-4c52-b115-251a6c32e13a.png&#41;]&#40;https://www.acmicpc.net/&#41;)
-[<img width="500" alt="image" src="https://user-images.githubusercontent.com/61863242/213344215-dc326413-1b9e-4c52-b115-251a6c32e13a.png" height="200">
+[<img width="450" alt="image" src="https://user-images.githubusercontent.com/61863242/213344215-dc326413-1b9e-4c52-b115-251a6c32e13a.png" height="200">
 ](https://www.acmicpc.net/)
 [<img width="500" alt="image" src="https://user-images.githubusercontent.com/61863242/213344635-22f5c1d3-2b2c-4a83-b168-3034364db8fb.png" height="100">
 ](https://programmers.co.kr/)
