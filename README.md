@@ -22,7 +22,7 @@
 [<img width="400" alt="image" src="https://user-images.githubusercontent.com/61863242/213345307-09c32b05-de5d-4cda-90d9-421181de7bbd.png" height="250">
 ](https://www.hackerrank.com/dashboard/)
 
-[<img width="200" alt="image" src="https://user-images.githubusercontent.com/61863242/213344690-9859d81e-9575-428a-a4f5-2831f304f48d.png" height="200">
+[<img width="100" alt="image" src="https://user-images.githubusercontent.com/61863242/213344690-9859d81e-9575-428a-a4f5-2831f304f48d.png" height="100">
 ](https://leetcode.com/)
 
 
